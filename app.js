@@ -64,6 +64,13 @@
 
 // Q   #    05..
 
+// let table = +prompt("which table do you want?")
+
+// for (let i = 1; i <= 10; i++) {
+// document.write(table + " x " + i + " = " + table * i + "<br>")
+// }
+
+
 // Q   #    06..
 
 // let calsius = 25
@@ -135,12 +142,19 @@
 
 // Q   #    12..
 
-// let radius = 20;
-// let circumference = 125.67999999999;
-// document.write("<h1> The Geometrizer </h1>", "</br>")
-// document.write("Radius of a circle is: ", radius, "</br>")
-// document.write("The circumference is: ", circumference, "</br>")
-// document.write("The area is: 1256.8")
+// document.write("<h1> The Geometrize</h1> <br />")
+// // a:
+// let radius = 10
+// document.write("Radius of a circle is: "+ radius + "<br />")
+
+// // b:
+// let pie = 3.142
+// let cicumference = 2 * pie * radius;
+// document.write("The circumference is: "+ cicumference + "<br />")
+
+// let area = pie * radius * 2
+// document.write("The Area is: "+ area + "<br />")
+
 
 // Q   #    13..
 
@@ -156,7 +170,6 @@
 // document.write("Amount of Snackes per day: ", amountPerDay, "</br>")
 // document.write("You will need ", eat , " Chocolate Cakes to last yu untilthe ripe old age of 50")
 
-// Q   #    14..
 
 //...................................chap # 5   END.........................................................
 
@@ -194,6 +207,18 @@
 // alert ("Hello "+ user)
 
 //Q   #    5..
+
+// let userTable = +prompt("Enter a number for table")
+
+// for(let i = 1; 1 <= 10; i++){
+//     if (userTable = ""){
+//         document.write("5 x "+ i + " = "+5* i);
+// }
+// else{
+//     document.write( userTable +" x "+ i + " = "+userTable* i)
+// }
+// }
+
 
 //Q   #    6..
 
